@@ -1,0 +1,14 @@
+com.google_mlkit_commons-jetified-window-java-1.0.0-beta04-0 C:\Users\LH\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\res
+com.google_mlkit_commons-jetified-play-services-base-18.0.1-1 C:\Users\LH\.gradle\caches\transforms-3\082fa8f1e076fd76c98f4d760b4e67b1\transformed\jetified-play-services-base-18.0.1\res
+com.google_mlkit_commons-core-1.6.0-2 C:\Users\LH\.gradle\caches\transforms-3\4ca28c4a71705f8a687c69dda140a277\transformed\core-1.6.0\res
+com.google_mlkit_commons-jetified-play-services-basement-18.0.0-3 C:\Users\LH\.gradle\caches\transforms-3\5ff4a353de7064fc161fb566343d6916\transformed\jetified-play-services-basement-18.0.0\res
+com.google_mlkit_commons-jetified-annotation-experimental-1.1.0-4 C:\Users\LH\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\res
+com.google_mlkit_commons-jetified-window-1.0.0-beta04-5 C:\Users\LH\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
+com.google_mlkit_commons-main-6 C:\Users\LH\AppData\Local\Pub\Cache\hosted\pub.dev\google_mlkit_commons-0.2.0\android\src\main\res
+com.google_mlkit_commons-release-7 C:\Users\LH\AppData\Local\Pub\Cache\hosted\pub.dev\google_mlkit_commons-0.2.0\android\src\release\res
+com.google_mlkit_commons-pngs-8 C:\Users\LH\Desktop\y4sem2\woodypj\build\google_mlkit_commons\generated\res\pngs\release
+com.google_mlkit_commons-resValues-9 C:\Users\LH\Desktop\y4sem2\woodypj\build\google_mlkit_commons\generated\res\resValues\release
+com.google_mlkit_commons-rs-10 C:\Users\LH\Desktop\y4sem2\woodypj\build\google_mlkit_commons\generated\res\rs\release
+com.google_mlkit_commons-mergeReleaseResources-11 C:\Users\LH\Desktop\y4sem2\woodypj\build\google_mlkit_commons\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.google_mlkit_commons-mergeReleaseResources-12 C:\Users\LH\Desktop\y4sem2\woodypj\build\google_mlkit_commons\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.google_mlkit_commons-merged_res-13 C:\Users\LH\Desktop\y4sem2\woodypj\build\google_mlkit_commons\intermediates\merged_res\release

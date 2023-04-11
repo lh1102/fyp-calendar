@@ -1,0 +1,15 @@
+com.google_mlkit_text_recognition-jetified-window-java-1.0.0-beta04-0 C:\Users\LH\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\res
+com.google_mlkit_text_recognition-jetified-play-services-base-18.0.1-1 C:\Users\LH\.gradle\caches\transforms-3\082fa8f1e076fd76c98f4d760b4e67b1\transformed\jetified-play-services-base-18.0.1\res
+com.google_mlkit_text_recognition-jetified-play-services-basement-18.0.1-2 C:\Users\LH\.gradle\caches\transforms-3\4bcacfbe4abdf6f32dfe66515abe77f9\transformed\jetified-play-services-basement-18.0.1\res
+com.google_mlkit_text_recognition-core-1.6.0-3 C:\Users\LH\.gradle\caches\transforms-3\4ca28c4a71705f8a687c69dda140a277\transformed\core-1.6.0\res
+com.google_mlkit_text_recognition-jetified-annotation-experimental-1.1.0-4 C:\Users\LH\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\res
+com.google_mlkit_text_recognition-jetified-window-1.0.0-beta04-5 C:\Users\LH\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
+com.google_mlkit_text_recognition-main-6 C:\Users\LH\AppData\Local\Pub\Cache\hosted\pub.dev\google_mlkit_text_recognition-0.4.0\android\src\main\res
+com.google_mlkit_text_recognition-release-7 C:\Users\LH\AppData\Local\Pub\Cache\hosted\pub.dev\google_mlkit_text_recognition-0.4.0\android\src\release\res
+com.google_mlkit_text_recognition-packaged_res-8 C:\Users\LH\Desktop\y4sem2\woodypj\build\google_mlkit_commons\intermediates\packaged_res\release
+com.google_mlkit_text_recognition-pngs-9 C:\Users\LH\Desktop\y4sem2\woodypj\build\google_mlkit_text_recognition\generated\res\pngs\release
+com.google_mlkit_text_recognition-resValues-10 C:\Users\LH\Desktop\y4sem2\woodypj\build\google_mlkit_text_recognition\generated\res\resValues\release
+com.google_mlkit_text_recognition-rs-11 C:\Users\LH\Desktop\y4sem2\woodypj\build\google_mlkit_text_recognition\generated\res\rs\release
+com.google_mlkit_text_recognition-mergeReleaseResources-12 C:\Users\LH\Desktop\y4sem2\woodypj\build\google_mlkit_text_recognition\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.google_mlkit_text_recognition-mergeReleaseResources-13 C:\Users\LH\Desktop\y4sem2\woodypj\build\google_mlkit_text_recognition\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.google_mlkit_text_recognition-merged_res-14 C:\Users\LH\Desktop\y4sem2\woodypj\build\google_mlkit_text_recognition\intermediates\merged_res\release
